@@ -1,0 +1,14 @@
+{
+  "name": "InfinityBoost",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Thomas Pruim <tom.pruim1@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "ng-twitter-api": "^0.1.5",
+    "jsSHA": "^2.3.1"
+  }
+}
